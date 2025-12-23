@@ -34,5 +34,3 @@ client.on("guildMemberRemove", async (member) => {
     `Server: ${member.guild.name}`
   );
 });
-
-client.login("MTQ1MjkzNTI2NjIxMjc3Mzk4OA.GlUOPN.01LVti3B4joHRjbAZjCz8pCeinTvZK2i9kTkVs")
