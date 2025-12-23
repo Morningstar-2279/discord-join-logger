@@ -34,3 +34,5 @@ client.on("guildMemberRemove", async (member) => {
     `Server: ${member.guild.name}`
   );
 });
+
+client.lohin(process.env.TOKEN);
